@@ -1,9 +1,7 @@
-#  Automatizando Aquário com ESP8266 e Telegram
+#  Estufa weed
 
 João Santos
 
-![enter image description here](https://miro.medium.com/max/1166/1*e64ab6acDz4-lB2TOG1X6A.png)
-Aproveitando meu tempo ocioso nessa pandemia, resolvi automatizar o aquário de minha tartaruguinha, para que fique sempre com a temperatura ideal, ligue e desligue a lampada UVA conforme luminosidade, mostre um painel web com os dados do aquário ou ate mesmo envie mensagens pelo Telegram caso a temperatura ultrapasse os limites definidos.!
 
 **Material necessário:**
 
@@ -26,7 +24,3 @@ Aproveitando meu tempo ocioso nessa pandemia, resolvi automatizar o aquário de 
 1- Módulo Relé 2 ch
 
 1- Sensor LDR
-
-[**Case para Impressão em 3D**](https://www.thingiverse.com/thing:5161895)
-
-[Artigo](https://joaomarcelo-ms.medium.com/monitorando-temperatura-da-%C3%A1gua-do-aqu%C3%A1rio-com-esp8266-telegram-e-sensor-ds18b20-977a4d5be87b)
