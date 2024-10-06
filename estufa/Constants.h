@@ -10,7 +10,7 @@ const String BASE_URL = "https://api.telegram.org/bot";
 const String FIRST_SUF = "/sendMessage?chat_id=";
 const String SEC_SUF = "&text=";
 const String CELSIOR = "°C";
-const String MY_NAME = "Aquario Online";
+const String MY_NAME = "Estufa Online";
 const float MINIMUN_TEMP = 20.00;
 const float MAXIMUM_TEMP = 28.00;
 const float ONE_HALF = 1.50;
