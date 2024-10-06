@@ -1,0 +1,21 @@
+const char *ssid = "";
+const char *PASS = "@*%";
+const String BOT_API_KEY = "";
+const String MY_CHANNEL_ID = "";
+
+const char fingerprint[] PROGMEM = "F2 AD 29 9C 34 48 DD 8D F4 CF 52 32 F6 57 33 68 2E 81 C1 90";
+const String MY_MESSAGE_TEXT_UP = "Oi, aqui é do seu Aquário! A temperatura da água está acima do ideal";
+const String MY_MESSAGE_TEXT_DOWN = "Oi, aqui é do seu Aquário! A temperatura da água está abaixo do ideal";
+const String BASE_URL = "https://api.telegram.org/bot";
+const String FIRST_SUF = "/sendMessage?chat_id=";
+const String SEC_SUF = "&text=";
+const String CELSIOR = "°C";
+const String MY_NAME = "Aquario Online";
+const float MINIMUN_TEMP = 20.00;
+const float MAXIMUM_TEMP = 28.00;
+const float ONE_HALF = 1.50;
+const float LIMIAR_UP = MAXIMUM_TEMP - 1;
+const float LIMIAR_DOWN = MINIMUN_TEMP + ONE_HALF;
+const char *HOSTNAME = "toimzim";
+const int LUMINOSITY = 4;
+const int WAIT_N_TIMES = 20;
